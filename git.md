@@ -11,7 +11,7 @@
 <body>
     <h1>Inteligência Artificial e Machine Learning</h1> 
     <p>
-    A Intêligencia Artificial e Machine Learning são cruciais e grande motivo da evolução da computação, pois graças a elas é possível a capacitação de sistemas para a realização de tarefas complexas, aprendendo padrões a partir de dados. Com o Machine Learning é possível a adaptação dinâmica dos algoritmos, trazendo soluções mais eficientes e rápidas. Porém existem desafios a serem levados em consideração, como a importância da transparência e explicabilidade dos modelos de Machine Learning e, além disso, a privacidade dos dados.
+    A Intêligencia Artificial e Machine Learning são cruciais e dois dos principais motivos da evolução da computação, pois graças a elas é possível a capacitação de sistemas para a realização de tarefas complexas, aprendendo padrões a partir de dados. Com o Machine Learning é possível a adaptação dinâmica dos algoritmos, trazendo soluções mais eficientes e rápidas. Porém existem desafios a serem levados em consideração, como a importância da transparência e explicabilidade dos modelos de Machine Learning e, além disso, a privacidade dos dados.
     </p>
  </body>
 </html>
